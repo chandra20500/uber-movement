@@ -15,10 +15,10 @@
 ## Table of Contents 
 
 - [Installation](#installation)
-- [data_Collecting](#data_Collecting)
+- [data Collecting](#data_Collecting)
 - [EDA](#EDA)
-- [data_preparation](#data_preparation)
-- [model_preparation](#model_preparation)
+- [preparing data for model](#data_preparation)
+- [Applying model](#model_preparation)
 - [Result](#Result)
 
 ---
