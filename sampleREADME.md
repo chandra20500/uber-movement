@@ -1,6 +1,6 @@
-<a href="http://fvcproductions.com"><img src="https://miro.medium.com/max/875/1*xCeJKwAwPJNPpRBEjp68oQ.jpeg" title="trafic image" alt="trafic image"></a>
-
 # UBER Movement data
+
+<a href="http://fvcproductions.com"><img src="https://miro.medium.com/max/875/1*xCeJKwAwPJNPpRBEjp68oQ.jpeg" title="trafic image" alt="trafic image"></a>
 
 > Travel timeprediction 
 
@@ -50,12 +50,16 @@ let generateProject = project => {
 https://buomsoo-kim.github.io/colab/2018/04/16/Importing-files-from-Google-Drive-in-Google-Colab.md/
 follow this url for step by step processing. 
 
-## Usage (Optional)
+## EDA
+- EDA is very important when it comes to understanding data that we have 
+- first of all we are going to visualise data from csv file only
+[![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber1.PNG)]()
 ## Documentation (Optional)
 ## Tests (Optional)
 
 - Going into more detail on code and technologies used
-- I utilized this nifty <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
+- <a href="https://github.com/chandra20500/uber-movement/blob/master/uber2.PNG" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
+- <a href="https://github.com/chandra20500/uber-movement/blob/master/uber3.PNG" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
 
 ---
 
