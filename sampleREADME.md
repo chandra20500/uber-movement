@@ -25,7 +25,7 @@
 
 ## Example (Optional)
 
-```javascript
+```Python
 // code away!
 
 let generateProject = project => {
