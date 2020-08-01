@@ -40,36 +40,16 @@ let generateProject = project => {
 
 ## Installation
 
-- All the `code` required to get started
-- Images of what it should look like
+- !pip install PyDrive 
+- !pip install geopandas
+- !pip install shapely
 
-### Clone
+## data_Collecting
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+> first of all we have to inport our csv and json file from google drive.
+https://buomsoo-kim.github.io/colab/2018/04/16/Importing-files-from-Google-Drive-in-Google-Colab.md/
+follow this url for step by step processing. 
 
-### Setup
-
-- If you want more syntax highlighting, format your code like this:
-
-> update and install this package first
-
-```shell
-$ brew update
-$ brew install fvcproductions
-```
-
-> now install npm and bower packages
-
-```shell
-$ npm install
-$ bower install
-```
-
-- For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
-
----
-
-## Features
 ## Usage (Optional)
 ## Documentation (Optional)
 ## Tests (Optional)
