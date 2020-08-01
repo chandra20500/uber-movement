@@ -15,10 +15,10 @@
 ## Table of Contents 
 
 - [Installation](#installation)
-- [data Collecting](#data_Collecting)
+- [Data collection](#Data collection)
 - [EDA](#EDA)
-- [preparing data for model](#data_preparation)
-- [Applying model](#model_preparation)
+- [Preparing data for model](#Preparing data for model)
+- [Applying model](#Applying model)
 - [Result](#Result)
 
 ---
@@ -44,7 +44,7 @@ let generateProject = project => {
 - !pip install geopandas
 - !pip install shapely
 
-## data_Collecting
+## Data collection
 
 > first of all we have to inport our csv and json file from google drive.
 https://buomsoo-kim.github.io/colab/2018/04/16/Importing-files-from-Google-Drive-in-Google-Colab.md/
@@ -78,7 +78,7 @@ is the most suitable and non suitable time to travel
 
 [![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber7.PNG)]()
 
-## data_preparation
+## Preparing data for model
 - To prepare data to train our MLmodel we must make sure that our datasethave all the suitable columns i have destinationID,sourceID and distance between centroid of two wards as independent variable and average travel time as dependent variable.
 - To get distance between two centroids we are going to make a 2D matrix where cell say A[i][j] will have distance between two points which is diagonal distance between those    two points so it dosen't matter weather it is from i to j or j to i.
 -image below shows a sample example of such 2D matrix where distance between centroids is stored.
@@ -90,7 +90,7 @@ is the most suitable and non suitable time to travel
 [![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber9.PNG)]()
 
 > And our Dataset is ready to use.
-## model_preparation
+## Applying model
 
 > i am using Gradient Boost for this dataset
 > but first of all lets split our dataset into train and test set
