@@ -61,14 +61,26 @@ is the most suitable and non suitable time to travel
 
 [![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber3.PNG)]()
 
+- Next moving to our Json file
+- Just to get starting with geopandas
+
+[![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber4.PNG)]()
+
+- Now i have picked a time(6PM evening) and a spot Lingarajapura in ward number 49 now we are going to see where i can react in less than half an hour
+
+[![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber5.PNG)]()
+
+- going further lets see where we can reach in , >30min (#2b8cbe), 20min - 30min (#7bccc4) , 10min - 20min (#bae4bc) and < 10min (#f0f9e8) in plot below i have plotted lingarajpuram with red color
+
+[![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber6.PNG)]()
+
+- Next lets plot centroid of all these wards these points are going to help us in predicting average travel time
+
+[![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber7.PNG)]()
+
 ## Documentation (Optional)
 ## Tests (Optional)
 
-- Going into more detail on code and technologies used
-[![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber2.PNG)]()
-[![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber3.PNG)]()
-
----
 
 ## Contributing
 
