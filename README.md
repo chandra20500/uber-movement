@@ -90,8 +90,45 @@ is the most suitable and non suitable time to travel
 [![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber9.PNG)]()
 
 > And our Dataset is ready to use.
-## Tests (Optional)
+## model_preparation
 
+> i am using Gradient Boost for this dataset
+> but first of all lets split our dataset into train and test set
+---
+```Python
+df_train, df_test = train_test_split(x, train_size = 0.8, test_size = 0.2, random_state = 100)
+```
+---
+> now splitting training dataset into x_train (independent variable) and y_train (dependent variable)
+---
+```Python
+y_train = df_train.pop('mean_travel_time')
+X_train = df_train
+
+y_test = df_test.pop('mean_travel_time')
+X_test = df_test
+```
+---
+> Now lets train our model 
+---
+```Python
+from sklearn.ensemble import GradientBoostingRegressor
+regressor = GradientBoostingRegressor(n_estimators = 150,
+                                         max_depth = 2,
+                                         min_samples_split = 20,
+                                         learning_rate = 0.38,
+                                         loss = 'ls')
+# fit the regressor with x and y data 
+regressor.fit(X_train, y_train)
+```
+---
+
+> Now lets make a prediction
+---
+```Python
+y_pred = regressor.predict(X_test)
+```
+---
 
 ## Contributing
 
