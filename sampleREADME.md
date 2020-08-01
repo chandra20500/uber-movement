@@ -1,8 +1,4 @@
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
-
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
-
-***INSERT GRAPHIC HERE (include hyperlink in image)***
+<a href="http://fvcproductions.com"><img src="https://miro.medium.com/max/875/1*xCeJKwAwPJNPpRBEjp68oQ.jpeg" title="trafic image" alt="trafic image"></a>
 
 # UBER Movement data
 
@@ -12,7 +8,7 @@
 
 ***INSERT ANOTHER GRAPHIC HERE***
 
-[![INSERT YOUR GRAPHIC HERE](https://miro.medium.com/max/875/1*xCeJKwAwPJNPpRBEjp68oQ.jpeg)]()
+[![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber1.PNG)]()
 
 - Most people will glance at your `README`, *maybe* star it, and leave
 - Ergo, people should understand instantly what your project is about based on your repo
