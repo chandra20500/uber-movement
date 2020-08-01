@@ -6,23 +6,10 @@
 
 > Using Uber movement data to predict travel time  
 
-***INSERT ANOTHER GRAPHIC HERE***
-
 [![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber1.PNG)]()
 
-- Most people will glance at your `README`, *maybe* star it, and leave
-- Ergo, people should understand instantly what your project is about based on your repo
-
-> Tips
-
-- HAVE WHITE SPACE
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
-
-> GIF Tools
-
-- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
-- For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
+- i have used data of bengaluru which can be easily downloded from https://movement.uber.com/
+- downloded hourly aggregated data and json file for geograpic operations 
 
 **Recordit**
 
