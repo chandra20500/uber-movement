@@ -9,30 +9,17 @@
 [![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber1.PNG)]()
 
 - i have used data of bengaluru which can be easily downloded from https://movement.uber.com/
-- downloded hourly aggregated data and json file for geograpic operations 
-
-**Recordit**
-
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
-
-**ttystudio**
-
-![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
-
+- downloded hourly aggregated data and bangloe_wards.json file for geograpic operations 
 ---
 
-## Table of Contents (Optional)
-
-> If your `README` has a lot of info, section headers might be nice.
+## Table of Contents 
 
 - [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
-
+- [data_Collecting](#data_Collecting)
+- [EDA](#EDA)
+- [data_preparation](#data_preparation)
+- [model_preparation](#model_preparation)
+- [Result](#Result)
 
 ---
 
