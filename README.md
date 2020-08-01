@@ -54,9 +54,11 @@ follow this url for step by step processing.
 - EDA is very important when it comes to understanding data that we have 
 - first of all we are going to visualise data from csv file only
 - A plot of average average travel time for different hour
+
 [![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber2.PNG)]()
 - now to have a better understanding of travel time variation for different time we have selected two random wards giri nagar and malleswaram and plot below describe when 
 is the most suitable and non suitable time to travel 
+
 [![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber3.PNG)]()
 
 ## Documentation (Optional)
