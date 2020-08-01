@@ -58,8 +58,8 @@ follow this url for step by step processing.
 ## Tests (Optional)
 
 - Going into more detail on code and technologies used
-- <a href="https://github.com/chandra20500/uber-movement/blob/master/uber2.PNG" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
-- <a href="https://github.com/chandra20500/uber-movement/blob/master/uber3.PNG" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
+[![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber2.PNG)]()
+[![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber3.PNG)]()
 
 ---
 
