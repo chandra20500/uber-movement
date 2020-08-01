@@ -53,7 +53,8 @@ follow this url for step by step processing.
 ## EDA
 - EDA is very important when it comes to understanding data that we have 
 - first of all we are going to visualise data from csv file only
-[![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber1.PNG)]()
+- [![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber2.PNG)]()
+- [![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber3.PNG)]()
 ## Documentation (Optional)
 ## Tests (Optional)
 
