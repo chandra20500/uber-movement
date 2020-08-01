@@ -78,7 +78,18 @@ is the most suitable and non suitable time to travel
 
 [![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber7.PNG)]()
 
-## Documentation (Optional)
+## data_preparation
+- To prepare data to train our MLmodel we must make sure that our datasethave all the suitable columns i have destinationID,sourceID and distance between centroid of two wards as independent variable and average travel time as dependent variable.
+- To get distance between two centroids we are going to make a 2D matrix where cell say A[i][j] will have distance between two points which is diagonal distance between those    two points so it dosen't matter weather it is from i to j or j to i.
+-image below shows a sample example of such 2D matrix where distance between centroids is stored.
+
+[![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber8.PNG)]()
+
+- further we have to create a database with average travel time sourceID, destinationID, distance and average travel time.
+
+[![INSERT YOUR GRAPHIC HERE](https://github.com/chandra20500/uber-movement/blob/master/uber9.PNG)]()
+
+> And our Dataset is ready to use.
 ## Tests (Optional)
 
 
